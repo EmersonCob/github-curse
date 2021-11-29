@@ -79,5 +79,7 @@ Saiba mais em [EmersonCob](https://github.com/EmersonCob)
      * OBS.2: É necessario muito cuidado pois modifica o historico de commit's, principalmente se já foi aplicado um push 
 
 
-### 
+### Para enviar todos os arquivos commitados para o repositorio remoto 
+
+    git push origin master
 
