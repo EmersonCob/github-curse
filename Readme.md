@@ -83,3 +83,7 @@ Saiba mais em [EmersonCob](https://github.com/EmersonCob)
 
     git push origin master
 
+### Para clonar um repositorio 
+
+    git clone https://github.com/EmersonCob/github-curse.git
+
