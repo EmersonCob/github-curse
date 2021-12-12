@@ -110,6 +110,7 @@ Saiba mais em [EmersonCob](https://github.com/EmersonCob)
     vi .gitignore
 
     * Para evitar que aquivos que contenham senhas ou algum outro arquivo que não queria subir para o repositorio remoto devemos inserir no .gitignore
+    * O arquivo pode ser criado em qualquer ferramenta.
 
 
 
