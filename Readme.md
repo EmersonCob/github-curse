@@ -87,3 +87,23 @@ Saiba mais em [EmersonCob](https://github.com/EmersonCob)
 
     git clone https://github.com/EmersonCob/github-curse.git
 
+### Para criar um branch
+
+    git checkout -b 'testeing'
+
+    * Para verificar quais são as branch's existentes e exibir na qual estámos.
+
+### Para navegar entre as branch's
+
+    git checkout master 
+
+    * digitar o nome da branch que deseja acessar.
+
+### Para deletar uma branch
+
+    git branch -D testing
+
+    * Após o comando informar o nome da branch que deseja apagar.
+
+
+
