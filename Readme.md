@@ -62,7 +62,7 @@ Saiba mais em [EmersonCob](https://github.com/EmersonCob)
 
     git show
 
-### Para restarurar um arquivo modificado antes do commit
+### Para restaurar um arquivo modificado antes do commit
 
     git checkout Readme.md 
 
@@ -104,6 +104,12 @@ Saiba mais em [EmersonCob](https://github.com/EmersonCob)
     git branch -D testing
 
     * Após o comando informar o nome da branch que deseja apagar.
+
+### Criando um arquivo .gitignore
+
+    vi .gitignore
+
+    * Para evitar que aquivos que contenham senhas ou algum outro arquivo que não queria subir para o repositorio remoto devemos inserir no .gitignore
 
 
 
