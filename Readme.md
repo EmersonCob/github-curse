@@ -91,9 +91,9 @@ Saiba mais em [EmersonCob](https://github.com/EmersonCob)
 
     git checkout -b 'testeing'
 
-    * Para verificar quais são as branch's existentes e exibir na qual estámos.
+    * Para verificar quais são as branches existentes e exibir na qual estámos.
 
-### Para navegar entre as branch's
+### Para navegar entre as branches
 
     git checkout master 
 
